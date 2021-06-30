@@ -1,0 +1,11 @@
+TO PLAY THE GAME: 
+
+make run
+
+TO SAVE THE STDERR TO "err.txt" file:
+
+make save
+
+TO EXIT THE GAME at any point:
+
+type "EXIT" or "exit"
